@@ -1,3 +1,3 @@
 # Architecture
 
-[][](./docs/3TierApp.v001.drawio.png)
+![](./docs/3TierApp.v001.drawio.png)
